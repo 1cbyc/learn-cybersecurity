@@ -42,7 +42,7 @@ I welcome contributions from the infosec community to help make this resource ev
 
 ## Code Style Guidelines
 
-To maintain consistency in our content, please follow these guidelines:
+To maintain consistency in the repository content, please follow these guidelines:
 
 - Use Markdown for documentation.
 - Follow a consistent naming convention for folders and files.
@@ -55,6 +55,6 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and inclusive.
+By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and inclusive.
 
 Thank you for contributing! 🚀
