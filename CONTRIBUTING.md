@@ -14,4 +14,11 @@ I welcome contributions from the infosec community to help make this resource ev
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/cybersecurity-learning.git
+   git clone https://github.com/1cbyc/learn-cybersecurity.git
+
+3. Create a new branch:
+
+   ```bash
+   git checkout -b feature/your-contribution
+
+
