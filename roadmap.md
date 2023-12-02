@@ -12,6 +12,7 @@ This roadmap is the initial draft designed to provide a structured path for lear
 
 > :warning: **Note:** Good understanding of programming is highly recommended (though optional).
 
+
 ## Table of Contents
 
 1. [Introduction to Cybersecurity](#introduction-to-cybersecurity)
