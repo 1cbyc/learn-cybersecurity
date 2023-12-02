@@ -6,9 +6,9 @@ I would like to update all information about my cybersecurity learning roadmap t
 
 This roadmap is the initial draft designed to provide a structured path for learners to develop their skills in cybersecurity. Whether you're a beginner or looking to enhance your knowledge, follow these milestones to become a proficient cybersecurity enthusiast. I would still work on this to improve it greatly as I see fit. I intend to commit the next few months to working on this [learn cyber security community](https://github.com/1cbyc/learn-cybersecurity)  and my [vulnerability assessment platform](https://nidful.com)
 
-<div style="background-color: #f8d7da; padding: 10px; border-radius: 5px;">
+<!-- <div style="background-color: #f8d7da; padding: 10px; border-radius: 5px;">
 :warning: **Note:** Good understanding of programming is highly recommended (though optional).
-</div>
+</div> -->
 
 > :warning: Good understanding of programming is highly recommended (though optional). :warning:
 
