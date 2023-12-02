@@ -21,4 +21,21 @@ I welcome contributions from the infosec community to help make this resource ev
    ```bash
    git checkout -b feature/your-contribution
 
+4. Make changes:
+    
+    Add new tutorials, improve existing content, or fix issues.
+
+5. Commit your changes:
+
+   ```bash
+   git commit -m "Brief description of your changes"
+
+6. Push to your fork:
+
+   ```bash
+   git push origin feature/your-contribution
+
+7. Open a pull request (PR):
+
+    Open a PR from your fork to the main branch of the original repository. Provide a clear description of your changes.
 
