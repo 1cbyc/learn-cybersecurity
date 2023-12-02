@@ -39,3 +39,13 @@ I welcome contributions from the infosec community to help make this resource ev
 
     Open a PR from your fork to the main branch of the original repository. Provide a clear description of your changes.
 
+
+## Code Style Guidelines
+
+To maintain consistency in our content, please follow these guidelines:
+
+* Use Markdown for documentation.
+* Follow a consistent naming convention for folders and files.
+* Keep code examples clear and well-commented.
+* Ensure any images or assets are appropriately named and placed in the assets/ directory.
+
