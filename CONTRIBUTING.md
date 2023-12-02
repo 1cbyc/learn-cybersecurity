@@ -49,3 +49,7 @@ To maintain consistency in our content, please follow these guidelines:
 * Keep code examples clear and well-commented.
 * Ensure any images or assets are appropriately named and placed in the assets/ directory.
 
+
+## Reporting Issues
+
+If you encounter any issues or have suggestions for improvements, please open an issue and provide detailed information about the problem or your suggestion.
