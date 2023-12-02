@@ -48,3 +48,7 @@ To maintain consistency in our content, please follow these guidelines:
 - Follow a consistent naming convention for folders and files.
 - Keep code examples clear and well-commented.
 - Ensure any images or assets are appropriately named and placed in the `assets/` directory.
+
+## Reporting Issues
+
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/1cbyc/learn-cybersecurity/issues/new) and provide detailed information about the problem or your suggestion.
