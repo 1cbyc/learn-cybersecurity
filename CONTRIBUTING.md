@@ -52,3 +52,9 @@ To maintain consistency in our content, please follow these guidelines:
 ## Reporting Issues
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/1cbyc/learn-cybersecurity/issues/new) and provide detailed information about the problem or your suggestion.
+
+## Code of Conduct
+
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and inclusive.
+
+Thank you for contributing! 🚀
